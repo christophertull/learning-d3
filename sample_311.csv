@@ -1,0 +1,10 @@
+Unique Key,Created Date,Closed Date,Agency,Agency Name,Complaint Type,Descriptor,Location Type,Incident Zip,Incident Address,Street Name,Address Type,City,Status,Borough,X Coordinate (State Plane),Y Coordinate (State Plane),Latitude,Longitude
+29613529,12/31/2014 11:59:01 AM,,HRA,HRA,Request for Information,Budget Letter Request,,,,,,,Email Sent,Unspecified,,,,
+29607686,12/31/2014 11:59:01 AM,,HRA,HRA,Request for Information,Budget Letter Request,,,,,,,Email Sent,Unspecified,,,,
+29608752,12/31/2014 11:59:00 AM,12/31/2014 11:59:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,,,,,INTERSECTION,,Closed,QUEENS,,,,
+29609202,12/31/2014 11:59:00 AM,01/02/2015 12:00:00 PM,DSNY,Queens East 12,Sanitation Condition,12 Dead Animals,Sidewalk,11433,163-50 SAYRES AVENUE,SAYRES AVENUE,ADDRESS,Jamaica,Closed,QUEENS,1043659,190646,40.68975661244157,-73.78577699388387
+29608475,12/31/2014 11:59:00 AM,,HRA,HRA,Request for Information,Budget Letter Request,,,,,,,Email Sent,Unspecified,,,,
+29612352,12/31/2014 11:58:33 AM,12/31/2014 12:05:51 PM,NYPD,New York City Police Department,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11369,22-61 REAR 95 STREET,95 STREET,ADDRESS,EAST ELMHURST,Closed,QUEENS,1018781,219526,40.7691570946185,-73.87533624424344
+29607985,12/31/2014 11:58:05 AM,01/02/2015 02:44:11 PM,DOT,Department of Transportation,Street Condition,Plate Condition - Noisy,Street,11218,634 CONEY ISLAND AVENUE,CONEY ISLAND AVENUE,ADDRESS,BROOKLYN,Closed,BROOKLYN,992696,173150,40.64192934405451,-73.96956641465998
+29608753,12/31/2014 11:58:00 AM,12/31/2014 11:58:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,,,,,INTERSECTION,,Closed,QUEENS,,,,
+29608825,12/31/2014 11:58:00 AM,12/31/2014 11:58:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,,,,,INTERSECTION,,Closed,QUEENS,,,,

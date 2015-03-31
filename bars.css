@@ -1,0 +1,32 @@
+
+
+div.bar {
+    display: inline-block;
+    width: 20px;
+    height: 75px;   /* We'll override height later */
+    margin-right: 2px;
+    background-color: teal;
+}
+
+/*.bars rect {
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+}
+
+.bars rect:hover {
+    fill: orange;    
+}*/
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
